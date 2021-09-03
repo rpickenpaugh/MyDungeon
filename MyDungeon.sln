@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1500
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDungeon", "MyDungeon\MyDungeon.csproj", "{ED7E286A-CBE9-4E6F-87D0-D4616EF14B86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatsLib", "StatsLib\StatsLib.csproj", "{9533C5A8-AC40-408F-BCFF-65F4EA9C9E69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{ED7E286A-CBE9-4E6F-87D0-D4616EF14B86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED7E286A-CBE9-4E6F-87D0-D4616EF14B86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED7E286A-CBE9-4E6F-87D0-D4616EF14B86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9533C5A8-AC40-408F-BCFF-65F4EA9C9E69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9533C5A8-AC40-408F-BCFF-65F4EA9C9E69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9533C5A8-AC40-408F-BCFF-65F4EA9C9E69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9533C5A8-AC40-408F-BCFF-65F4EA9C9E69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
